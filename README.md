@@ -34,7 +34,8 @@ You can change the **"UDO_"** prefix by modifying DIR_PREFIX variable (It is def
 ## How to run?
 
 ```
-$ git clone https://abc.com
+$ git clone https://github.com/doantranhoang/udownload_organizer.git
+$ cd udownload_organizer
 $ python main.py
 +-------------------+
 |2016-03-05 10:06:36|
